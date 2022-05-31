@@ -52,7 +52,6 @@ while winner:
             winner = False
             
         else:
-            print(f"It's a draw! Play again")
-            print(user)       
+            print(f"It's a draw! Play again")     
     else:
         print('invalid value please try again')
